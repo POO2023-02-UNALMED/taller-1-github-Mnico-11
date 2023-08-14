@@ -1,3 +1,5 @@
 Nicole Natalia Guaranguay Parra
 18
 Aprender el paradigma de programacion orientado a objetos
+Porque la carpeta ya no esta vacia
+Porque se genera conflicto entre las diferentes versiones del archivo
